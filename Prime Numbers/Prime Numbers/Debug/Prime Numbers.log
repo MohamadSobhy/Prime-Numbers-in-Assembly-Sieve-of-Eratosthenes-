@@ -1,0 +1,14 @@
+﻿Build started 12/12/2017 06:31:13 م.
+     1>Project "F:\ACM Training\Problems Solving\Prime Numbers\Prime Numbers\Prime Numbers.vcxproj" on node 2 (Build target(s)).
+     1>_MASM:
+         Assembling Source.asm...
+         cmd.exe /C "C:\Users\sobhy\AppData\Local\Temp\tmp58cedfa622424ec0b55fb687d26bcced.cmd"
+         ml.exe /c /nologo /Zi /Fo"Debug\Source.obj" /I "c:\irvine" /W3 /errorReport:prompt  /TaSource.asm
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\ACM Training\Problems Solving\Prime Numbers\Debug\Prime Numbers.exe" /INCREMENTAL /NOLOGO /LIBPATH:c:\irvine irvine32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"F:\ACM Training\Problems Solving\Prime Numbers\Debug\Prime Numbers.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\ACM Training\Problems Solving\Prime Numbers\Debug\Prime Numbers.lib" /MACHINE:X86 Debug\Source.obj
+         Prime Numbers.vcxproj -> F:\ACM Training\Problems Solving\Prime Numbers\Debug\Prime Numbers.exe
+     1>Done Building Project "F:\ACM Training\Problems Solving\Prime Numbers\Prime Numbers\Prime Numbers.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.24
